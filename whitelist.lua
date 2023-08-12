@@ -1,9 +1,10 @@
-hwids = {
-  "Timmy",
-  "Jimmy",
-  "Bob",
-  "Billy",
-  "Bobby",
-  "Tammy",
-  "John"
+userids = {
+[826506326] = true, 
+[USERIDHERE] = true,
+[USERIDHERE] = true,
+[USERIDHERE] = true,
+[USERIDHERE] = true,
+[USERIDHERE] = true,
+[USERIDHERE] = true
 }
+return userids
