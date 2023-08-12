@@ -1,5 +1,0 @@
-blockedhwid = {
-  "johnny",
-  "Zachary",
-  "TimmyEvil"
-}
