@@ -1,0 +1,1 @@
+# synergy.win.whitelist
