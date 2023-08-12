@@ -1,1 +1,5 @@
-
+blockedhwid = {
+  "johnny",
+  "Zachary",
+  "TimmyEvil"
+}
