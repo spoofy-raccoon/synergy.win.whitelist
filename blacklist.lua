@@ -1,10 +1,10 @@
 userids = {
-[488987727] = false, 
-[USERIDHERE] = false,
-[USERIDHERE] = false,
-[USERIDHERE] = false,
-[USERIDHERE] = false,
-[USERIDHERE] = false,
-[USERIDHERE] = false
+[488987727] = true, 
+[USERIDHERE] = true,
+[USERIDHERE] = true,
+[USERIDHERE] = true,
+[USERIDHERE] = true,
+[USERIDHERE] = true,
+[USERIDHERE] = true
 }
 return userids
